@@ -1,6 +1,6 @@
 # Instagram Post insights analysis
 
-## This is an insight generator tool for Instagram posts
+## This is an insight generator and prediction tool for your Instagram posts
 
 1. Download your Instagram analytic data by going to your Instagram account setting then go to > privacy and security option > Data Download > Request Download.
 2. Create the folder "assets" in the root directory of the project.

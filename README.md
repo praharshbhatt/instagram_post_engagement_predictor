@@ -1,6 +1,6 @@
 # Instagram Post insights analysis
 
-## This is an insight generator tool for Instagram posts
+## This is an insight generator and prediction tool for your Instagram posts
 
 1. Download your Instagram analytic data by going to your Instagram account setting then go to > privacy and security option > Data Download > Request Download.
 2. Create the folder "assets" in the root directory of the project.
@@ -369,3 +369,7 @@ Now that we know how our decision tree works, let us make predictions.
 ```python
 #sample_one_pred_tree1 = int(tree1.predict([[5, 5, 1, 3]]))
 ```
+
+
+### That's it!
+<img src='assets/images/Pink and Purple Professional LinkedIn Banner.gif' width='600'>
